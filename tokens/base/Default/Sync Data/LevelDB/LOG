@@ -1,2 +1,3 @@
-2024/03/31-17:29:20.872 3380 Creating DB C:\Users\Davi Taveira\OneDrive - Instituto TeenStreet Brasil\Documentos\GitHub\bot-whatsapp-futcelula\tokens\base\Default\Sync Data\LevelDB since it was missing.
-2024/03/31-17:29:20.889 3380 Reusing MANIFEST C:\Users\Davi Taveira\OneDrive - Instituto TeenStreet Brasil\Documentos\GitHub\bot-whatsapp-futcelula\tokens\base\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/04/03-15:05:17.571 8207 Reusing MANIFEST /Users/taveira/Documents/GitHub/bot-whatsapp-1/tokens/base/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/04/03-15:05:17.578 8207 Recovering log #3
+2024/04/03-15:05:17.578 8207 Reusing old log /Users/taveira/Documents/GitHub/bot-whatsapp-1/tokens/base/Default/Sync Data/LevelDB/000003.log 

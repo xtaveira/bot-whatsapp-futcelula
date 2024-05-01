@@ -32,4 +32,6 @@ let listCounter = 0
 
 }
 
-create({session: 'base'}).then((client) => start(client))
+create({session: 'base'}).then((client) => {
+    start(client)
+})

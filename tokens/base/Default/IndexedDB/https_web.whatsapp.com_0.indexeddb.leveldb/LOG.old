@@ -1,0 +1,16 @@
+2024/04/03-14:52:41.978 a303 Reusing MANIFEST /Users/taveira/Documents/GitHub/bot-whatsapp-1/tokens/base/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/03-14:52:41.978 a303 Recovering log #104
+2024/04/03-14:52:41.982 a303 Reusing old log /Users/taveira/Documents/GitHub/bot-whatsapp-1/tokens/base/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000104.log 
+2024/04/03-14:52:52.197 f703 Level-0 table #110: started
+2024/04/03-14:52:52.208 f703 Level-0 table #110: 223842 bytes OK
+2024/04/03-14:52:52.220 f703 Delete type=0 #104
+2024/04/03-14:52:52.220 8507 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/03-14:52:52.766 a303 Compacting 1@1 + 3@2 files
+2024/04/03-14:52:52.825 a303 Generated table #111@1: 62710 keys, 2395649 bytes
+2024/04/03-14:52:52.849 a303 Generated table #112@1: 16803 keys, 994991 bytes
+2024/04/03-14:52:52.849 a303 Compacted 1@1 + 3@2 files => 3390640 bytes
+2024/04/03-14:52:52.857 a303 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/04/03-14:52:52.857 a303 Delete type=2 #75
+2024/04/03-14:52:52.857 a303 Delete type=2 #110
+2024/04/03-14:52:52.857 a303 Delete type=2 #107
+2024/04/03-14:52:52.857 a303 Delete type=2 #106
